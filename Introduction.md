@@ -89,3 +89,8 @@ For devices running Android version 5.0 (API level 21) or higher, each app runs 
 
 ### **Apps**
 This is probably the most familiar part of Android. Android comes with a set of core apps for E-Mail, SMS messaging, calendars, internet browsing, contacts, and more. There are also system apps, that function both as apps for users and provide key capabilities like the Launcher3 app that defines the homescreen and app layout.
+
+## Documentation
+
+The Android OS is very large and complicated and this tutorial cannot include every single detail about it.
+So I encourage everyone who is intersted in Android development, to take a look at the AOSP documentation after reading this guide: https://source.android.com/ which goes in depth, explaining the Android architecture. Some of the content will be adapted into this guide.
