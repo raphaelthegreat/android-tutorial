@@ -1,0 +1,3 @@
+# Hardware Abstraction Layer
+
+A HAL defines a standard interface for hardware vendors to implement, which enables Android to be agnostic about lower-level driver implementations. Using a HAL allows you to implement functionality without affecting or modifying the higher level system. This page describes the older architecture, which is no longer supported as of Android 8.0. For Android 8.0 and higher, please see HAL Types.
